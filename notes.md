@@ -44,3 +44,10 @@
 - Evaluate:  Evaluate your code
 - Print:  Print any results
 - Loop:  Loop back to step 1 
+
+## Print
+- Can take in mulitple arguments and then specify how you want to use them
+
+## Other notes
+- You can verify a application ran successfully by running 'echo$?' on the command line
+- Returns a 0 if successful, returns a one if it failed
